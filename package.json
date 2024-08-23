@@ -1,12 +1,6 @@
 {
-  "name": "design-system",
-  "version": "1.0.0",
-  "description": "- [ ] Text - [ ] Heading - [ ] Box - [ ] Button - [ ] TextInput - [ ] TextArea - [ ] Checkbox - [ ] Avatar - [ ] MultiStep",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
 }

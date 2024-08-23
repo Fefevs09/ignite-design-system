@@ -1,1 +1,1 @@
-console.log("Ok");
+import {} from "@ignite-ui/tokens";
